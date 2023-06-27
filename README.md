@@ -25,5 +25,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suatylmz&" alt="suatylmz" /></p>
 
 <p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/github-snake-dark.svg" alt="snake">
+  <img src="https://github.com/Matrix278/Matrix278/raw/output/github-snake.svg" alt="snake">
 </p>
