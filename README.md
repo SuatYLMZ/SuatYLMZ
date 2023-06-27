@@ -24,8 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suatylmz&" alt="suatylmz" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suatylmz&label=Profile%20views&color=0e75b6&style=flat" alt="suatylmz" /> </p>
-
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/github-snake-dark.svg" alt="snake">
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suatylmz&label=Profile%20views&color=0e75b6&style=flat" alt="suatylmz" /> </p>
