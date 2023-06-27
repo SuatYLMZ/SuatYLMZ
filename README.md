@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suat</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/github-snake-dark.svg" alt="snake">
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suatylmz&label=Profile%20views&color=0e75b6&style=flat" alt="suatylmz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suatylmz" alt="suatylmz" /></a> </p>
@@ -27,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suatylmz&show_icons=true&locale=en" alt="suatylmz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suatylmz&" alt="suatylmz" /></p>
+
+<p align="center">
+  <img src="https://github.com/Matrix278/Matrix278/raw/output/github-snake-dark.svg" alt="snake">
+</p>
