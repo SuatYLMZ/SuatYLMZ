@@ -18,7 +18,11 @@
 
 - 📫 Feel free to reach out to me via email at [Your Email] or connect with me on LinkedIn [Your LinkedIn Profile URL]. Let's connect and explore potential opportunities!
 
-- 🚀 Looking forward to contributing to exciting projects and being part of a dynamic development team. Let's build something awesome together! 
+- 🚀 Looking forward to contributing to exciting projects and being part of a dynamic development team. Let's build something awesome together!
+
+  <p align="center">
+  <img src="https://github.com/Matrix278/Matrix278/raw/output/github-snake-dark.svg" alt="snake">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,8 +44,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suatylmz&" alt="suatylmz" /></p>
 
-<p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/github-snake-dark.svg" alt="snake">
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suatylmz&label=Profile%20views&color=0e75b6&style=flat" alt="suatylmz" /> </p>
