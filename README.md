@@ -16,7 +16,7 @@
 
 - 🤝 Open to collaborating with diverse teams, sharing ideas, and embracing new challenges that foster growth and innovation.
 
-- 📫 Feel free to reach out to me via email at [Your Email] or connect with me on LinkedIn [Your LinkedIn Profile URL]. Let's connect and explore potential opportunities!
+- 📫 Feel free to reach out and connect with me on LinkedIn. Let's connect and explore potential opportunities!
 
 - 🚀 Looking forward to contributing to exciting projects and being part of a dynamic development team. Let's build something awesome together!
 
